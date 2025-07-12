@@ -4,7 +4,10 @@ Docs:
 
 
 Comments on the code or a well-fixed patient does not need anesthesia.............
+
 the goal of the project is to understand how CCM worked
 
 Коментарии по коду или хорошо зафиксированный пациент в анестезии не нуждается.............
-Т.е. цельданного проекта понятькак работал CCM
+
+Т.е. цель данного проекта понять как работает CCM
+
